@@ -1,0 +1,13 @@
+{
+    "name": "kimbisnis3/kalkulator",
+    "description": "just for fun",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kimbisnis3",
+            "email": "kimbisnis3@gmail.com"
+        }
+    ],
+    "require": {}
+}
