@@ -9,5 +9,10 @@
             "email": "kimbisnis3@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kimbisnis3\\Kalkulator\\": "src/"
+        }
+    }
 }
