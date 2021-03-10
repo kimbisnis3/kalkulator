@@ -1,6 +1,6 @@
 <?php
  
-namespace Edopratama\Kalkulator;
+namespace Kimbisnis3\Kalkulator;
  
 /**
  * Advance Calculator.
